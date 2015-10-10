@@ -18,6 +18,12 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+/**
+ * TeamBoard
+ *
+ * This class drives the TeamBoard activity, allowing a user to add players to a
+ * team as well as updating the existing players' stats and attributes.
+ */
 
 public class TeamBoard extends ActionBarActivity implements View.OnClickListener,AdapterView.OnItemSelectedListener{
 

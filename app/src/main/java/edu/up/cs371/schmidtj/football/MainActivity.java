@@ -18,6 +18,12 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * MainActivity
+ *
+ * This class drives the main activity of the app, allowing a user to select teams, update
+ * a team's stats, create teams, and sllows the user to access the team board activity.
+ */
 
 public class MainActivity extends ActionBarActivity implements View.OnClickListener,AdapterView.OnItemSelectedListener {
 

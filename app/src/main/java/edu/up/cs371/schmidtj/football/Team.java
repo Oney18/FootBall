@@ -5,7 +5,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
+ * Team
+ *
  * Created by schmidtj on 9/23/2015.
+ *
+ * This class holds the attributes and methods relevant to a Team
  */
 public class Team implements Serializable{
 

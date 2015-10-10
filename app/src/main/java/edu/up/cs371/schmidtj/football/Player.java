@@ -3,7 +3,11 @@ package edu.up.cs371.schmidtj.football;
 import java.io.Serializable;
 
 /**
+ * Player
+ *
  * Created by schmidtj on 9/23/2015.
+ *
+ * This class holds the attributes and methods relevant to a Player
  */
 public class Player implements Serializable{
 
